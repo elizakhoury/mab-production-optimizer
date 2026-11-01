@@ -1,0 +1,109 @@
+condition_group,coverage,mean_width_mg_L,scope
+0,0.9761904761904762,0.2975914627666419,All positive times
+1,1.0,0.3503314552001854,All positive times
+2,0.9880952380952381,0.3150844595732635,All positive times
+3,0.9761904761904762,0.2975914627666419,All positive times
+4,0.8571428571428571,0.266774875946911,All positive times
+5,0.9166666666666666,0.28895350028891365,All positive times
+6,1.0,0.3503314552001854,All positive times
+7,1.0,0.3150844595732635,All positive times
+8,0.8690476190476191,0.2975914627666419,All positive times
+9,0.6309523809523809,0.266774875946911,All positive times
+10,0.8452380952380952,0.2889535002889137,All positive times
+11,0.9880952380952381,0.3503314552001854,All positive times
+12,1.0,0.3150844595732635,All positive times
+13,0.9702380952380952,0.266774875946911,All positive times
+14,0.8928571428571429,0.2975914627666419,All positive times
+15,0.8928571428571429,0.266774875946911,All positive times
+16,0.9880952380952381,0.2889535002889137,All positive times
+17,0.9285714285714286,0.3503314552001854,All positive times
+18,0.9761904761904762,0.3150844595732635,All positive times
+19,0.9642857142857143,0.2975914627666419,All positive times
+20,0.7619047619047619,0.266774875946911,All positive times
+21,0.9166666666666666,0.28895350028891365,All positive times
+22,0.9761904761904762,0.3503314552001854,All positive times
+23,0.9523809523809523,0.3150844595732635,All positive times
+24,1.0,0.3503314552001854,All positive times
+25,0.9880952380952381,0.3150844595732635,All positive times
+26,0.9226190476190477,0.2889535002889137,All positive times
+0,1.0,0.3397399747301565,Days 1 to 10
+1,1.0,0.33663481544850715,Days 1 to 10
+2,0.9642857142857143,0.37730858950701285,Days 1 to 10
+3,1.0,0.3397399747301565,Days 1 to 10
+4,1.0,0.3015475658885925,Days 1 to 10
+5,1.0,0.3176654594043722,Days 1 to 10
+6,1.0,0.33663481544850715,Days 1 to 10
+7,1.0,0.37730858950701285,Days 1 to 10
+8,0.6785714285714286,0.3397399747301565,Days 1 to 10
+9,0.14285714285714285,0.3015475658885925,Days 1 to 10
+10,0.9285714285714286,0.3176654594043722,Days 1 to 10
+11,0.9642857142857143,0.3366348154485072,Days 1 to 10
+12,1.0,0.37730858950701285,Days 1 to 10
+13,0.9642857142857143,0.3015475658885925,Days 1 to 10
+14,0.75,0.3397399747301565,Days 1 to 10
+15,0.8571428571428571,0.3015475658885925,Days 1 to 10
+16,1.0,0.3176654594043722,Days 1 to 10
+17,0.8571428571428571,0.33663481544850715,Days 1 to 10
+18,0.9642857142857143,0.3773085895070128,Days 1 to 10
+19,1.0,0.3397399747301565,Days 1 to 10
+20,0.6071428571428571,0.3015475658885925,Days 1 to 10
+21,0.9642857142857143,0.3176654594043722,Days 1 to 10
+22,0.9642857142857143,0.33663481544850715,Days 1 to 10
+23,1.0,0.37730858950701285,Days 1 to 10
+24,1.0,0.33663481544850715,Days 1 to 10
+25,1.0,0.37730858950701285,Days 1 to 10
+26,0.9285714285714286,0.3176654594043722,Days 1 to 10
+0,1.0,0.3371663786634998,Fold-selected time at held-out conditions
+1,1.0,0.36786824002170754,Fold-selected time at held-out conditions
+2,1.0,0.43006362995756303,Fold-selected time at held-out conditions
+3,1.0,0.3371663786634998,Fold-selected time at held-out conditions
+4,1.0,0.38879813548994,Fold-selected time at held-out conditions
+5,1.0,0.3972982717208387,Fold-selected time at held-out conditions
+6,1.0,0.36786824002170754,Fold-selected time at held-out conditions
+7,1.0,0.43006362995756303,Fold-selected time at held-out conditions
+8,0.0,0.33716637866349985,Fold-selected time at held-out conditions
+9,0.0,0.38879813548994,Fold-selected time at held-out conditions
+10,1.0,0.39729827172083865,Fold-selected time at held-out conditions
+11,1.0,0.3678682400217075,Fold-selected time at held-out conditions
+12,1.0,0.43006362995756303,Fold-selected time at held-out conditions
+13,1.0,0.38879813548994,Fold-selected time at held-out conditions
+14,0.0,0.33716637866349985,Fold-selected time at held-out conditions
+15,1.0,0.3887981354899399,Fold-selected time at held-out conditions
+16,1.0,0.39729827172083865,Fold-selected time at held-out conditions
+17,1.0,0.3678682400217075,Fold-selected time at held-out conditions
+18,1.0,0.43006362995756303,Fold-selected time at held-out conditions
+19,1.0,0.33716637866349985,Fold-selected time at held-out conditions
+20,1.0,0.38879813548994,Fold-selected time at held-out conditions
+21,1.0,0.3972982717208387,Fold-selected time at held-out conditions
+22,1.0,0.3678682400217075,Fold-selected time at held-out conditions
+23,1.0,0.43006362995756287,Fold-selected time at held-out conditions
+24,1.0,0.36786824002170754,Fold-selected time at held-out conditions
+25,1.0,0.43006362995756287,Fold-selected time at held-out conditions
+26,1.0,0.39729827172083887,Fold-selected time at held-out conditions
+0,1.0,0.3598833619143432,Model-selected harvest for each held-out batch
+1,1.0,0.3860070869311585,Model-selected harvest for each held-out batch
+2,1.0,0.28748151802695887,Model-selected harvest for each held-out batch
+3,1.0,0.3371663786634998,Model-selected harvest for each held-out batch
+4,1.0,0.30175777363332257,Model-selected harvest for each held-out batch
+5,1.0,0.32206326265222285,Model-selected harvest for each held-out batch
+6,1.0,0.2914353709259928,Model-selected harvest for each held-out batch
+7,1.0,0.27085520800094615,Model-selected harvest for each held-out batch
+8,1.0,0.30079171651999126,Model-selected harvest for each held-out batch
+9,0.0,0.38879813548994,Model-selected harvest for each held-out batch
+10,1.0,0.3459169677121149,Model-selected harvest for each held-out batch
+11,1.0,0.3531165672777512,Model-selected harvest for each held-out batch
+12,1.0,0.43006362995756303,Model-selected harvest for each held-out batch
+13,1.0,0.3528132796727794,Model-selected harvest for each held-out batch
+14,0.0,0.2728900982162763,Model-selected harvest for each held-out batch
+15,1.0,0.3528132796727793,Model-selected harvest for each held-out batch
+16,1.0,0.3749445201379228,Model-selected harvest for each held-out batch
+17,1.0,0.3179958082065657,Model-selected harvest for each held-out batch
+18,1.0,0.46255020013160375,Model-selected harvest for each held-out batch
+19,1.0,0.4004643892669484,Model-selected harvest for each held-out batch
+20,1.0,0.34489392470558045,Model-selected harvest for each held-out batch
+21,1.0,0.3510875884856948,Model-selected harvest for each held-out batch
+22,1.0,0.35061529950819004,Model-selected harvest for each held-out batch
+23,1.0,0.4040544744711734,Model-selected harvest for each held-out batch
+24,1.0,0.23732520575212868,Model-selected harvest for each held-out batch
+25,1.0,0.4040544744711734,Model-selected harvest for each held-out batch
+26,1.0,0.25235532774633684,Model-selected harvest for each held-out batch
