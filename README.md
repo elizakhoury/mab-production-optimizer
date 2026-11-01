@@ -112,15 +112,17 @@ However, inspecting its predictions revealed a problem that the overall scores d
 
 The saturation model combines a quadratic relationship for the starting conditions with a time-dependent factor:
 
-\[
-\widehat{mAb}(x,t)=q(x)\frac{t^p}{\tau^p+t^p}
-\]
 
-Here, \(q(x)\) is the fitted quadratic expression for the three starting inputs, \(t\) is time in days, \(\tau\) is the time at which the time factor reaches one-half, and \(p\) controls the shape of the rise.
+$$
+\widehat{\mathrm{mAb}}(x,t) = q(x)\frac{t^p}{\tau^p+t^p}
+$$
+
+
+Here, \(q(x)\) is the fitted quadratic expression for the three starting inputs, \(t\) is time in days, \(τ\) is the time at which the time factor reaches one-half, and \(p\) controls the shape of the rise.
 
 This structure predicts exactly zero antibody at time zero and approaches a condition-dependent plateau. It provides a simple representation of accumulating product without requiring a detailed biological mechanism. The plateau assumption remains an approximation; it cannot represent every possible production pattern.
 
-The search compared \(\tau\) values of 0.5, 1, 2, 4, and 8 days with powers of 1, 2, and 3. The selected configuration used \(\tau=1\) day and \(p=1\), giving the lowest mean validation RMSE among these 15 candidates. Its quadratic coefficients were fitted by ordinary least squares, with no separate regression intercept and no regularization.
+The search compared \(t\) values of 0.5, 1, 2, 4, and 8 days with powers of 1, 2, and 3. The selected configuration used \(τ=1\) day and \(p=1\), giving the lowest mean validation RMSE among these 15 candidates. Its quadratic coefficients were fitted by ordinary least squares, with no separate regression intercept and no regularization.
 
 [Saturation model settings and results](tables/saturation_model_comparison.csv)
 
